@@ -1,0 +1,5 @@
+ADD = 1
+REMOVE = 2
+SEARCH = 3
+PRINT_ALL = 4
+EXIT = 5
